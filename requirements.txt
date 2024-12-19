@@ -1,0 +1,6 @@
+numpy <=2.0
+pandas
+tsfresh
+glob
+csv
+re
