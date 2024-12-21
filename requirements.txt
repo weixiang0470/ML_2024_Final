@@ -1,4 +1,6 @@
+matplotlib
 numpy <=2.0
+seaborn
 pandas
 tsfresh
 glob

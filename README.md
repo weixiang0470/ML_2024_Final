@@ -18,7 +18,7 @@
 1. First install the requirements libraries.
     - `pip install -r requirements.txt`
 2. Use `tsfresh.ipynb` to extract features from light curve, we provide extracted features as `tsfresh_features.csv`.
-3. Follow instruction in `train.ipynb` and get your result.
+3. Follow instruction in `train_model.ipynb` and get your result.
 
 ## **Dataset**
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
