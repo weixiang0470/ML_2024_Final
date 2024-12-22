@@ -2,7 +2,7 @@
 - A final project of Machine Learning course in NTHU
 
 ## **Members**
-- p1
+- 黃偉祥 資工四
 - p2
 - p3
 - p4
