@@ -1,6 +1,7 @@
 matplotlib
 numpy <=2.0
 seaborn
+torch
 pandas
 tsfresh
 glob
