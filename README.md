@@ -19,6 +19,7 @@
     - `pip install -r requirements.txt`
 2. Use `tsfresh.ipynb` to extract features from light curve, we provide extracted features as `tsfresh_features.csv` in **Light_curve_dataset**.
 3. Follow instruction in `Method_model.ipynb` and get your result.(in Models folder)
+4. Check our result: [KOI table](./Models/Result.md#koi-table-group) & [Light curve](./Models/Result.md#light-curve-group)
 
 ## **Dataset**
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
