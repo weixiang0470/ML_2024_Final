@@ -18,7 +18,7 @@
 1. First install the requirements libraries.
     - `pip install -r requirements.txt`
 2. Use `tsfresh.ipynb` to extract features from light curve, we provide extracted features as `tsfresh_features.csv` in **Light_curve_dataset**.
-3. Follow instruction in `train_model.ipynb` and get your result.(in Train folders)
+3. Follow instruction in `Method_model.ipynb` and get your result.(in Models folder)
 
 ## **Dataset**
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
@@ -41,3 +41,10 @@ python(70772) MallocStackLogging: can't turn off malloc stack logging because it
 - Solution:
     - Restart kernel and execute the code below first
     - `os.environ["MallocStackLogging"] = "0"`
+
+2. Memory out of usages
+    - Happen when extracting features using **tsfresh**
+    - Because light curve information need too much memory space to store and calculate the informations
+- Solution:
+    - Use **TPU** at Colab platform
+    - Limited every day usage by free version
