@@ -4,9 +4,9 @@
 ## **Members**
 - 黃偉祥 資工四
 - 李奕萱 電資25
-- p3
-- p4
-- p5
+- 鄭兆瑋 
+- 黃宥瑄
+- 廖昱兆 電資26
 
 ## **Introduction**
 - We use 2 different kind of dataset and 3 machine learning algorithms on both and see which method is better on predicting exoplanet. 
